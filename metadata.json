@@ -1,0 +1,6 @@
+{
+  "name": "Party Planner Shopping Agent",
+  "description": "CymbalMart's AI party planner and conversational CymbalMart Assistant chatbot helping customers navigate store aisles, optimize budgets with Cymbal Select items, and prepare events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
